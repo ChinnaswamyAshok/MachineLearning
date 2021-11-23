@@ -106,8 +106,3 @@ InputSentence = preprocess(Input)
 P = vectorizer.transform(InputSentence)
 predicted = model.predict(P)
 print(predicted)
-
-
-
-
-
