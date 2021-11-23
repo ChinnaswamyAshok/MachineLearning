@@ -1,2 +1,2 @@
 # MachineLearning_Python
-This repository contains my Machine Learning projects and proof of concepts
+This repository contains Machine Learning projects and Proof of Concepts in PYTHON
